@@ -26,5 +26,7 @@ KPI Tracking
 
 📎 Links
 📂 https://github.com/MakynnaGreen/Data_Projects_TripleTen
+
 📄 https://docs.google.com/document/d/13c2l3c8IENrnCuwM9BLqARstisTeoZR-4tGQrC8E40s/edit?tab=t.0#heading=h.5x0d5h95i329
+
 💼 https://www.linkedin.com/in/makynnagreen/
