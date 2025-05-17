@@ -6,7 +6,9 @@ She/Her
 
 📊 About Me
 -
-I’m a Business Intelligence Analyst with a background in hospitality and retail management, now specializing in turning raw data into clear, actionable insights. I recently completed a Business Intelligence Analytics certificate from Triple Ten, where I built projects focusing on sales performance dashboards, customer churn analysis, and operational reporting.
+Once a bartender, now a Business Intelligence Analyst — proof that you can pivot careers and still have fun with numbers. I spent years in hospitality and retail management, running teams, fixing broken machines, and chasing down the why behind every weirdly slow Tuesday or unexpected sales spike. That curiosity eventually led me to data analytics, where I realized I could stop guessing and start finding real answers in the numbers.
+
+I earned my Business Intelligence Analytics certificate from Triple Ten and now spend my days wrangling data, building dashboards, and turning messy spreadsheets into clear, actionable insights. I’m passionate about storytelling through data, finding patterns others might miss, and helping businesses make decisions that actually make sense. During my time at Triple Ten I completed several projects that gave me hands-on experience transforming raw data into clear, actionable insights. Through these, I’ve improved decision-making processes, uncovered hidden trends, and turned messy data into business wins.
 
 🎮 Fun Facts
 -
