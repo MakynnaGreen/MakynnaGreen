@@ -10,9 +10,12 @@ I’m a Business Intelligence Analyst with a background in hospitality and retai
 
 🎮 Fun Facts
 -
-I used to sling cocktails before slinging data sets.
+I used to sling cocktails before slinging data sets
+-
 Lifelong gamer
+-
 I genuinely enjoy cleaning. Weird, I know.
+-
 
 🌍 Open to Collaborations
 -
