@@ -25,7 +25,6 @@ I’m actively looking to participate in outsourcing projects, freelance analyti
 
 🛠️ Tech Skills
 -
-SQL
 
 Power BI
 
@@ -38,6 +37,10 @@ Data Cleaning & Preparation
 Dashboard Design
 
 KPI Tracking
+
+SQL
+
+Python
 
 🎯 My Goals for 2025
 -
